@@ -7,7 +7,9 @@ insights, and prepare it for deeper analysis.*
 - **Dimensions:** 202 rows (observations) và 8 column (variables).
 ## 2. Data Cleaning
 The dataset contains 202 observations. After checking and cleaning the data, 197 valid observations remain, specifically:
-#### 2.1 fff
+#### *2.1 Handling Duplicates & Missing Values:*
+- Used **Power Query** to check and clean the first 6 columns => remove **3 duplicate rows** and **2 missing value rows.**
 
-#### 2.2 mfmf
+***Result:** Retained **197 observations.*** 
+#### *2.2 mfmf*
 ## 3. Descriptive Statistics
