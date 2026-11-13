@@ -41,6 +41,13 @@ The dataset contains 202 observations. After checking and cleaning the data, 197
 <img width="751" height="573" alt="image" src="https://github.com/user-attachments/assets/e61cb130-10d5-4c3c-a2b2-7415a3c38755" />
 <img width="751" height="644" alt="image" src="https://github.com/user-attachments/assets/9679b875-705b-4a1e-b793-f7405cc25b63" />
 
+#### *3.2 Key Insights:*
+- **Insight 1:**
+Students have higher average and median scores in Reading (67.80 and 68) and Writing (66.50 and 68) than in Math (64.38 and 65). Math also has the lowest score at 0, compared to 17 in Reading and 10 in Writing. This suggests that students generally have better reading and writing skills than mathematical skills. Therefore, schools should focus more on supporting students in Math and improving teaching methods for this subject.
+
+- **Insight 2:**
+The standard deviations of all three subjects are very similar, ranging from 15.73 in Reading to 16.17 in Writing. Additionally, the median is slightly higher than the mean (66.67 compared to 66.22 in the average_score column). This suggests that most students achieved scores above the average level, while the overall mean is mainly pulled down by a small group of students with very low scores (outliers), rather than indicating generally poor performance among students.
+
 
 
 
