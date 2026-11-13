@@ -21,7 +21,7 @@ The dataset contains 202 observations. After checking and cleaning the data, 197
 
 <img width="1408" height="480" alt="image" src="https://github.com/user-attachments/assets/e10da94f-2b68-45da-a50b-956de8c5d3f9" />
 
-- Standardized the entire ***average_score*** column to **2 decimal places** for consistency
+- Standardized the entire all numerical column to **2 decimal places** for consistency
 
 <img width="1398" height="432" alt="image" src="https://github.com/user-attachments/assets/5ddc309f-6652-4d37-a03f-437e71c01b30" />
 
@@ -31,7 +31,13 @@ The dataset contains 202 observations. After checking and cleaning the data, 197
 
 <img width="1920" height="573" alt="image" src="https://github.com/user-attachments/assets/caedcde3-8c7b-434a-877e-23f51ff78dfe" />
 
-<img width="1010" height="481" alt="image" src="https://github.com/user-attachments/assets/e1ede000-8fde-41c8-9b69-7a1a2244f19f" />
+<img width="1370" height="389" alt="image" src="https://github.com/user-attachments/assets/0bfe5fc2-4934-4355-b238-ed6fa276d7d7" />
+
+#### *3.1 Visualising Score Distributions:*
+
+<img width="754" height="748" alt="image" src="https://github.com/user-attachments/assets/ca641517-7d3b-4e1b-9419-1323929c05b1" />
+<img width="750" height="614" alt="image" src="https://github.com/user-attachments/assets/b0980aa5-a95b-46ce-be75-bf4e1b49ec20" />
+<img width="751" height="536" alt="image" src="https://github.com/user-attachments/assets/ef3ffbfa-260c-40e0-9cc8-6125b93d77f7" />
 
 
 
