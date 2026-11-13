@@ -38,6 +38,9 @@ The dataset contains 202 observations. After checking and cleaning the data, 197
 <img width="754" height="748" alt="image" src="https://github.com/user-attachments/assets/ca641517-7d3b-4e1b-9419-1323929c05b1" />
 <img width="750" height="614" alt="image" src="https://github.com/user-attachments/assets/b0980aa5-a95b-46ce-be75-bf4e1b49ec20" />
 <img width="751" height="536" alt="image" src="https://github.com/user-attachments/assets/ef3ffbfa-260c-40e0-9cc8-6125b93d77f7" />
+<img width="751" height="573" alt="image" src="https://github.com/user-attachments/assets/e61cb130-10d5-4c3c-a2b2-7415a3c38755" />
+<img width="751" height="644" alt="image" src="https://github.com/user-attachments/assets/9679b875-705b-4a1e-b793-f7405cc25b63" />
+
 
 
 
