@@ -9,6 +9,8 @@ insights, and prepare it for deeper analysis.*
 The dataset contains 202 observations. After checking and cleaning the data, 197 valid observations remain, specifically:
 #### *2.1 Handling Duplicates & Missing Values:*
 - Used **Power Query** to check and clean the first 6 columns => remove **3 duplicate rows** and **2 missing value rows.**
+<img width="1920" height="593" alt="image" src="https://github.com/user-attachments/assets/8c098217-4421-41f3-9e12-9cf02d16a407" /> <img width="1920" height="788" alt="image" src="https://github.com/user-attachments/assets/448eaf9e-5c23-4a3d-a223-3403980558c5" /> 
+
 
 ***Result:** Retained **197 observations.*** 
 #### *2.2 mfmf*
